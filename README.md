@@ -29,7 +29,7 @@ When you type in `ruby -v` you should see the version of Ruby you are currently 
 ```bash
 ruby -v
 ruby 2.2.2p95 (2015-04-13 revision 50295) [x86_64-darwin14]
-```
+```rub
 
 As an example, to run a Ruby program that was stored in `some-program.rb` you would simply type: `ruby some-program.rb`. 
 
